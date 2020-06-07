@@ -1,0 +1,7 @@
+good cood stile
+identation
+variable have meaning
+camelCase
+alt tab mouse out
+alt shortcut written on the menues
+debugging watch breakpoint messesge output
